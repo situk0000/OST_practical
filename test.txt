@@ -1,6 +1,6 @@
 hello from branch 1
 Hello from Branch 2
-HEAD
+
 Hello from branch1 NEW
 
 Hello from branch2 NEW
